@@ -1,7 +1,8 @@
 const sections = [
   {
     title: "hats",
-    imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+    imageUrl:
+      "http://static1.squarespace.com/static/51b601c0e4b0f42908f20456/56b4ff59ab48de9628931177/56b7e0ea45bf211a61d8b27c/1528679907202/?format=1500w",
     id: 1,
     linkUrl: "shop/hats"
   },
