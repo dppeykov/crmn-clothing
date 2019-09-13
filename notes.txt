@@ -1,4 +1,7 @@
-the Sign up component needs to be added - JSX:
+the Sign up component needs to be added - also the last video for the sign in with email and password - video 91 - section 7:
+
+
+JSX:
 
 import React, { Component } from 'react';
 
