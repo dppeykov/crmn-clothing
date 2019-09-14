@@ -122,3 +122,5 @@ sign-up {
         margin: 10px 0;
     }
 }
+// afte is the redux
+
